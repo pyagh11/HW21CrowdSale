@@ -31,9 +31,12 @@ Validate the contract has been deployed:
 ![image](images/Picture6.png)
 
 Next we select Account 6 from Metamask to and put its address to “buy tokens”  and select one Ether to be transferred:
+
 ![image](images/Picture7.png)
 
+
 ![image](images/Picture8.png)
+
 
 We observe that the function is working as it’s pending 
 
