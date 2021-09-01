@@ -24,4 +24,38 @@ And validate that contract has been deployed:
 
 ![image](images/Picture4.png)
 
+Next we take the token address and place it in “At Address” and change the contract to “puppercoin.sol”:
+![image](images/Picture5.png)
 
+Validate the contract has been deployed:
+![image](images/Picture6.png)
+
+Next we select Account 6 from Metamask to and put its address to “buy tokens”  and select one Ether to be transferred:
+![image](images/Picture7.png)
+
+![image](images/Picture8.png)
+
+We observe that the function is working as it’s pending 
+
+![image](images/Picture9.png)
+
+We also notice the balance drop in Account 6 (original balance was 2eth)
+
+![image](images/Picture10.png)
+
+We see the balance is reflected 
+
+![image](images/Picture11.png)
+
+We check https://ropsten.etherscan.io/ and see the transaction 
+
+![image](images/Picture12.png)
+
+We could also see the transaction b/w contract (account 1) and account 6, proving that code worked.
+
+![image](images/Picture13.png)
+
+However, the transaction didn’t seem to be reflected in MetaMask when checking Account1, pls note that I spoke to TA’s and advised me it could be due to the closing being hardcoded, awaiting closing of auction in order for it to be reflected. They also advised above would be sufficient to show code is working:
+
+
+![image](images/Picture14.png)
