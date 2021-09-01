@@ -13,4 +13,15 @@ First we run PupperCoinSaleDeployer by choosing Account1 in metmask and the foll
 ![image](images/Picture1.png)
 
 
+We see the contract has been deployed and we see the token_address and token_sales_address populated:
+![image](images/Picture2.png)
+
+We then take the “sale_token_address” and put in the “At Address” and changes the contract to Crowdsale.sol
+
+![image](images/Picture3.png)
+
+And validate that contract has been deployed:
+
+![image](images/Picture4.png)
+
 
