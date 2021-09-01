@@ -25,9 +25,11 @@ And validate that contract has been deployed:
 ![image](images/Picture4.png)
 
 Next we take the token address and place it in “At Address” and change the contract to “puppercoin.sol”:
+
 ![image](images/Picture5.png)
 
 Validate the contract has been deployed:
+
 ![image](images/Picture6.png)
 
 Next we select Account 6 from Metamask to and put its address to “buy tokens”  and select one Ether to be transferred:
